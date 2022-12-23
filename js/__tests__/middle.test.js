@@ -2,6 +2,7 @@ const middle = require("../middle");
 
 test("middle function exists", () => {
   expect(middle).toBeDefined();
+  
 })
 
 test("middle function returns the correct value", () => {
